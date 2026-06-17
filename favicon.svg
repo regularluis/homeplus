@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HomePlus">
+  <rect width="64" height="64" rx="14" fill="#F8F3EE"/>
+  <path d="M14 31 L32 16 L50 31" stroke="#A66A43" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M19 30 V49 H45 V30" stroke="#7B4F32" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M32 35 V44 M27 39.5 H37" stroke="#A66A43" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="240" height="56" viewBox="0 0 240 56" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HomePlus">
+  <!-- Marca: techo + cruz que forma 'casa' y 'plus' -->
+  <g>
+    <!-- Techo -->
+    <path d="M8 26 L28 9 L48 26" stroke="#A66A43" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Cuerpo de la casa -->
+    <path d="M13 25 V46 H43 V25" stroke="#7B4F32" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Plus dentro de la casa -->
+    <path d="M28 31 V41 M23 36 H33" stroke="#A66A43" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="62" y="36" font-family="'Fraunces', Georgia, serif" font-size="27" font-weight="600" fill="#2E2A26">Home<tspan fill="#A66A43">Plus</tspan></text>
+</svg>
